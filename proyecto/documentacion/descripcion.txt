@@ -1,0 +1,17 @@
+DOCUMENTACIÓN DEL PROYECTO
+
+Nombre del proyecto:
+Calculadora básica.
+
+Descripción:
+Este proyecto consiste en una calculadora sencilla desarrollada en Python.
+
+Funciones:
+- Sumar dos números.
+- Restar dos números.
+- Multiplicar dos números.
+- Dividir dos números.
+
+También se agregó una validación para evitar la división entre cero.
+
+El objetivo de este proyecto es practicar el uso de GitHub, los repositorios, los commits y el control de versiones.
